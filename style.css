@@ -15,6 +15,7 @@ h1{
    
     .ini{
        background-image:url(nike.jpg);
+       background: antiquewhite;
        position: fixed;
     }
     .button{
