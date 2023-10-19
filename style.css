@@ -4,7 +4,7 @@ h1{
     color :ghostwhite
    }
     body{
-    background-image: url(nike.jpg);
+    background-image: url(Nike\ pink.jpg);
     background-repeat: no-repeat   ;
     background-attachment: fixed;
     background-size: cover;
@@ -19,7 +19,7 @@ h1{
     }
    
     .ini{
-       background-image:url(nike.jpg);
+       background-image:url(Nike\ pink.jpg);
        background-attachment: fixed ;
        position:fixed ; 
     }
