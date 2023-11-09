@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    font-size: 300px ;
+    font-size: 200px ;
     color :rgb(255, 0, 191)
    }
     body{
@@ -13,7 +13,7 @@ h1{
     }
     .button{
       display: inline-block;
-      padding:0px 0px;
+      padding:20px 25px;
     }
    .botao{
       background-color: rgb(231, 5, 118);
