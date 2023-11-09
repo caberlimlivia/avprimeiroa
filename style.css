@@ -27,3 +27,12 @@ h1{
       display: inline-block;
       padding:0px 0px;
     }
+   .botao{
+      background-color: rgb(231, 5, 118);
+      color: rgb(247, 154, 212)9);
+      border:none;
+      text-align: center;
+      padding: 10px 20px;
+      display: inline-block;
+      cursor:pointer;
+   }
