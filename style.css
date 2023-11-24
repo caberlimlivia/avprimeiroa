@@ -6,10 +6,10 @@ h1{
     body{
     background-image: url(nike-40-0.png);
     background-repeat: no-repeat   ;
-    background-attachment: fixed;
+    background-attachment:fixed;
     background-size: cover;
     width: 100% ;
-    height: 80%;
+    height: 150%;
     }
    .botao{
       background-color: rgb(231, 5, 118);
